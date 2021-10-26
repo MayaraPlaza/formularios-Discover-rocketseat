@@ -1,10 +1,10 @@
 # formularios-Discover-rocketseat
 formularios Discover rocketseat
 
-<!--
+
     Formularios
 
-    <form>
+    form
         elemente que definirá o formulario
         é um container estilo <section> <footer>
 
@@ -22,23 +22,23 @@ formularios Discover rocketseat
     - validação
     - controles customizados
     - Javascript
--->
 
-<!--  
-<form action="" method="GET">
+
+
+form action="" method="GET"
 para receber alguma informação
 Exemplo/recebe: nome e email 
 http://minhapagina.com.br/?name=Mayara&email=ma.cristine@gmail.com.br
-</form>
--->
 
-<!--
-<form action="" method="POST">
+
+
+
+form action="" method="POST"
 metodo para criar alguma coisa / ex: criar usuario </form>
--->
 
-<!--
-<fieldset>
+
+
+<fieldset
     -agrupamento de campos
     - mesmo proposito
     - semantico
@@ -54,9 +54,9 @@ Atibutos especiais:
     - name
         -nome do grupo
 
-    <legend>
+    <legend
         -nome do agrupamento (primeiro elemento do fieldset
         )
 
 
--->
+
