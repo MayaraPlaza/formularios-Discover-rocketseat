@@ -24,18 +24,6 @@ formularios Discover rocketseat
     - Javascript
 
 
-Exemplo: 
-form action = "" method= " GET" 
-para receber alguma informação 
-
-Exemplo / recebe : nome e email  
-http:// minhapagina.com.br /?name=Mayara&email=ma. cristine@gmail.com.br
-
-form action="" method="POST"
-metodo para criar alguma coisa / ex: criar usuario </form>
-
-
-
 fieldset
     -agrupamento de campos
     - mesmo proposito
