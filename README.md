@@ -24,13 +24,13 @@ formularios Discover rocketseat
     - Javascript
 
 
-fieldset
+    fieldset
     -agrupamento de campos
     - mesmo proposito
     - semantico
     - acessibilidade
 
-Atibutos especiais:
+    Atibutos especiais:
     - Disable
         - desabilita todos os elementos internos
         - não serão enviados ao submeter o formulario
